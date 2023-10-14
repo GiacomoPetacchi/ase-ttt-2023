@@ -1,3 +1,4 @@
+# Game (functionalities, to be implemented:TODO)
 from itertools import cycle
 from typing import NamedTuple
 
